@@ -1,0 +1,40 @@
+{
+  "all-locations": [
+    {
+      "id": 1,
+      "location": "RS Sentosa",
+      "address": "Jl. Raya Parung - Bogor, Kemang, Kab. Bogor",
+      "village": "Kemang",
+      "district": "Gunung Sindur",
+      "city": "Kab. Bogor",
+      "province": "Jawa Barat"
+    },
+    {
+      "id": 2,
+      "location": "SPBU 34-16302 Wika",
+      "address": "Jl. Raya Gunung Sindur KM.5 Curug - Gunung Sindur",
+      "village": "Curug",
+      "district": "Gunung Sindur",
+      "city": "Kab. Bogor",
+      "province": "Jawa Barat"
+    },
+    {
+      "id": 3,
+      "location": "SPBU 34-16315 Gunung Sindur",
+      "address": "Jl. Desa Curug, Gunung Sindur, Parung - Kab. Bogor",
+      "village": "Curug",
+      "district": "Gunung Sindur",
+      "city": "Kab. Bogor",
+      "province": "Jawa Barat"
+    },
+    {
+      "id": 4,
+      "location": "SPBU 34-16322 Rawa Kalong",
+      "address": "Jl. Rawa Kalong, Gunung Sindur",
+      "village": "Gunung Sindur",
+      "district": "Gunung Sindur",
+      "city": "Kab. Bogor",
+      "province": "Jawa Barat"
+    }
+  ]
+}
